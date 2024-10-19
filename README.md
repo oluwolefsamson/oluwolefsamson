@@ -5,7 +5,7 @@ Hi there 👋, I'm Oluwole Samson!
 👯 I’m looking to collaborate on open-source projects and innovative web solutions that can have a positive impact.
 🤔 I’m always open to learning new technologies and improving development processes to deliver pixel-perfect and performant applications.
 💬 Ask me about anything related to MERN, Tailwind CSS, API development, and web optimization.
-📫 You can reach me at: oluwolefsamson@gmail.com / https://samson-com.vercel.app/
+📫 You can reach me at: oluwolefsamson44@gmail.com / https://samson-com.vercel.app/
 😄 Pronouns: He/Him
 ⚡ Fun fact: I'm a problem solver at heart and a tech enthusiast who loves keeping up with the latest industry trends and innovations.
 🛠️ Technologies & Tools
