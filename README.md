@@ -2,7 +2,7 @@ Hi there 👋, I'm Oluwole Samson!
 
 👨‍💻 About Me
 
-🔭 I’m currently working on doctor appointment websites where users can easily book appointments and consult with doctors.
+🔭 I’m currently working on Cropwise where users can easily get the realtime price of farm products and it works with socket.io for notification.
 
 🌱 I’m constantly learning and sharpening my skills in MERN Stack Development (MongoDB, Express, React, Node.js), with a focus on building scalable web applications.
 
